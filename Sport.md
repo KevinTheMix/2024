@@ -2,6 +2,7 @@
 
 ## Run
 
+* 2024.02.24~25 - _Citadelle de Namur_
 * 2024.03.06 - **Alma** (10Km, Woluwé-Saint-Lambert)
 * 2024.03.10 - **North C Trail & Walk** (13 21 28 35 Km)
 * 2024.04.21 - **ULB** (10Km)
@@ -18,6 +19,7 @@
 * 2024.09.28 - **Spartacus Run** (5 10 Km)
 * 2024.09.29 - **Marathon de Bruxelles** (42 Km)
 * 2024.09.29 - **Dolce la Hulpe Trail** (9 14 24 Km, _Runners' Lab Trailrun Series_)
+* 2024.10.13 - **Paris** (20 Km)
 * 2024.10.20 - **Gent Urban Trail** (7 12 Km)
 * 2023.10.27 - **Foulée des Flosses** (16 Km)
 * 2024.11.17 - **Antwerpen Urban Trail** (7 12 Km)
@@ -25,7 +27,6 @@
 
 * Jogging au lever du soleil très tôt le matin  
 * Montagne de Buren à Liège
-* Citadelle de Namur
 
 * <https://gladiatorevents.be>
 * <https://www.papi-et.com/calendrier-2024-mars-avri.php>
